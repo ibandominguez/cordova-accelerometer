@@ -7,10 +7,10 @@
         "files": {}
     },
     "installed_plugins": {
-        "cordova-plugin-whitelist": {
+        "cordova-plugin-device-motion": {
             "PACKAGE_NAME": "com.ibandominguez.acceleromoter"
         },
-        "cordova-plugin-device-motion": {
+        "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "com.ibandominguez.acceleromoter"
         }
     },
